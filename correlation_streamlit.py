@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from datetime import date
 
 # Title
-st.title("Multi-File Correlation Heatmap")
+st.title("Correlation Heatmap")
 
 # List of Excel files to load
 file_names = ["step_0.xlsx", "step_1.xlsx", "step_2.xlsx", "step_3.xlsx", "step_4.xlsx","boundary.xlsx"]
